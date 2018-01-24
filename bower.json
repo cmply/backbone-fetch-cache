@@ -1,7 +1,7 @@
 {
-  "name": "backbone-fetch-cache",
+  "name": "backbone-fetch-cache-clone",
   "version": "1.5.5",
-  "homepage": "https://github.com/madglory/backbone-fetch-cache",
+  "homepage": "https://github.com/cityheroes/backbone-fetch-cache",
   "authors": [
     "MadGlory <hello@madglory.com> (http://madglory.com)",
     "Andrew Appleton <hello@floatleft.com>"
